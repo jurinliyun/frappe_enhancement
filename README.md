@@ -32,10 +32,17 @@ Frappe various script enhancement
         
     }
 ```
+### Output
+
+![image](https://github.com/user-attachments/assets/a8010115-d6ab-4b28-9f36-0973d85176fa)
+
 2. Searchable Select DataType
 ```
 frappe.ui.form.extensions.makeSearchableDropdown(frm, "custom_msic_code_");
 ```
+
+### Output
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f477c1e3-1351-4a9b-80e0-35c4043dd0e0" />
 
 #### License
 
